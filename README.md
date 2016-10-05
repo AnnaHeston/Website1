@@ -1,2 +1,2 @@
 # Website1
-Student Project Websitr
+Student Project Website for my coding bootcamp.
